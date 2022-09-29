@@ -11,7 +11,7 @@
         "debian",
         "noVNC"
     ],
-    "repository":"https://github.com/krypton-byte/xfce4-noVNC",
+    "repository":"https://github.com/sousvk123/browserrdp",
     "stack":"container",
     "env":{
         "NGROK_APIKEY":{
